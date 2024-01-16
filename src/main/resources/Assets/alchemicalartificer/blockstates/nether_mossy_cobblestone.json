@@ -1,0 +1,9 @@
+{
+  "variants":
+  {
+    "":
+    {
+      "model": "alchemicalartificer:block/nether_mossy_cobblestone"
+    }
+  }
+}
